@@ -23,4 +23,3 @@ if (num>0){
     let result = factorial(num);
     console.log(`the factorial of ${num} is ${result}`)
 }
-
