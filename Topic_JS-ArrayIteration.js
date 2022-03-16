@@ -1,4 +1,3 @@
-const keys = require('keys');
 //Js Array Iteration
 //Array forEach()
 const num = [45,5, 2, 20];
